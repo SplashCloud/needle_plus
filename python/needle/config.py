@@ -1,0 +1,2 @@
+LAZY_MODE = False
+TENSOR_COUNTER = 0
